@@ -1,0 +1,5 @@
+1. Facebook App creation https://developers.Facebook.com/apps
+2. Facebook App Setup and App Live
+3. Send Data n8n webhook and get all Information For Activation
+4. The callback URL or verify
+5. Train Agent Using Messeger
